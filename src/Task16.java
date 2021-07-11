@@ -1,3 +1,4 @@
+//недоделано
 public class Task16 {
     static void Method_task_16() {
         int[] array={1,2,3,4,2,33,3};
